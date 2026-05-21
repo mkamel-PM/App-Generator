@@ -1,0 +1,6 @@
+{
+  "name": "Anatomi Video Editor",
+  "description": "A high-precision video frame extraction tool designed to identify unique, stable, and high-quality screenshots from video content using advanced browser-side processing and AI validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
